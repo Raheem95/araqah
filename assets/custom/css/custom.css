@@ -199,6 +199,7 @@ body {
   -o-transition: all ease-in-out 0.5s;
   -webkit-transition: all ease-in-out 0.5s;
   -moz-transition: all ease-in-out 0.5s;
+  background: linear-gradient(to left, #ae9b08, #6db3ef);
 }
 .fables-page-title {
   color: #fff;
