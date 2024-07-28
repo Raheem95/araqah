@@ -3303,6 +3303,10 @@ a.toggle-menu {
 .image-container {
   overflow: hidden;
   position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  min-height: 600px;
 }
 .image-container img {
   transition: all ease-in-out 0.4s;
