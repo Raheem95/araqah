@@ -98,7 +98,7 @@
   .btco-hover-menu .collapse ul ul ul ul.dropdown-menu,
   .btco-hover-menu .collapse ul ul,
   .btco-hover-menu .collapse ul ul.dropdown-menu {
-    padding-left: 25px;
+    padding-right: 25px;
   }
 }
 @media only screen and (min-width: 991px) {
@@ -137,7 +137,7 @@
     content: "";
     position: absolute;
     bottom: 100%;
-    left: 24px;
+    right: 24px;
     border-right: 5px solid transparent;
     border-bottom: 5px solid rgba(255, 255, 255, 0.9);
     border-left: 5px solid transparent;
@@ -161,7 +161,8 @@
   .btco-hover-menu .collapse ul ul {
     position: absolute;
     top: 100%;
-    left: 0;
+    right: 0;
+    text-align: right;
     min-width: 250px;
     display: none;
   }
