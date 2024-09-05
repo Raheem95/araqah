@@ -184,7 +184,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(44, 62, 79, 0.8);
+  background-color: rgb(245 35 232);
 }
 .overlay-lighter:after {
   background-color: rgba(44, 62, 79, 0.7);
@@ -200,7 +200,7 @@ body {
   -o-transition: all ease-in-out 0.5s;
   -webkit-transition: all ease-in-out 0.5s;
   -moz-transition: all ease-in-out 0.5s;
-  background: linear-gradient(to left, #04326b, #09e7d3);
+  background: #ff0796;
 }
 .fables-page-title {
   color: #fff;
@@ -2655,13 +2655,13 @@ body {
   border-style: solid;
 }
 .bg-blue {
-  background-color: #754405;
+  background-color: #ca0f72;
 }
 .bg-wisteria {
   background-color: #0bae2f;
 }
 .bg-dark-blue {
-  background-color: #8d7905;
+  background-color: #efd231;
 }
 .flex-center {
   justify-content: center;
@@ -2912,18 +2912,18 @@ a:hover,
 .fables-main-active.active,
 .fables-main-dots .owl-dot.active span,
 .fables-main-hover-background-color:hover {
-  background-color: #cce445 !important;
+  background-color: rgb(245 35 232) !important;
 }
 .fables-main-text-color {
-  color: #dc900b;
+  color: #d20d1d;
 }
 .backgroundedH2 {
-  background: linear-gradient(to left, #91e20e, #dc8e08);
+  background: #d1085b;
   padding: 30px 10px;
   color: white;
 }
 .backgroundedH2 span {
-  color: rgb(122, 5, 95);
+  color: rgb(177, 183, 7);
 }
 .fables-main-hover-color:hover {
   color: #2c3e4f;
@@ -2941,7 +2941,7 @@ a:hover,
 .fables-second-hover-background-color:hover,
 .fables-second-active.active,
 .fables-second-dots .owl-dot.active span {
-  background-color: #079c75 !important;
+  background-color: #cc1b1b !important;
   transition: all ease-in-out 0.3s;
 }
 
@@ -2951,19 +2951,19 @@ a:hover,
   color: #fff;
 }
 .fables-second-text-color {
-  color: #6ee50e;
+  color: #8d066b;
 }
 .fables-second-hover-color:hover,
 .fables-second-hover-color-link a:hover {
-  color: #4287c3;
+  color: #0db621;
 }
 .fables-second-border-color {
-  border-color: #4287c3 !important;
+  border-color: #d7079c !important;
 }
 .fables-second-hover-text-color:hover .fables-main-text-color,
 .fables-second-hover-color:hover .fables-third-text-color,
 .fables-second-hover-text-color:hover .fables-fifth-border-color {
-  color: #4287c3 !important;
+  color: #cf1092 !important;
 }
 .fables-second-hover-text-color:hover .fables-forth-text-color {
   border-color: #4287c3;
@@ -2990,7 +2990,7 @@ a:hover,
   background-color: #e9ecee !important;
 }
 .fables-forth-text-color {
-  color: #54e260;
+  color: #d2d8d3;
 }
 .fables-forth-border-color {
   border-color: #e9ecee;
@@ -2999,7 +2999,7 @@ a:hover,
   background-color: #99a2aa;
 }
 .fables-fifth-text-color {
-  color: #99a2aa;
+  color: #f8f01c;
 }
 .fables-fifth-border-color {
   border-color: #99a2aa;
