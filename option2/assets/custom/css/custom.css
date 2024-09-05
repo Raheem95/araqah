@@ -177,6 +177,7 @@ body {
 .fables-after-overlay {
   position: relative;
 }
+
 .fables-after-overlay::after {
   content: "";
   position: absolute;
@@ -184,7 +185,10 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(237, 132, 76, 0.8);
+  background-color: rgba(240, 234, 230, 0.6);
+}
+.fables-footer::after {
+  background-color: rgba(207, 81, 14, 0.6) !important;
 }
 .overlay-lighter:after {
   background-color: rgba(44, 62, 79, 0.7);
