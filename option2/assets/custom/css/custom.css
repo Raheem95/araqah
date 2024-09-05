@@ -2655,13 +2655,13 @@ body {
   border-style: solid;
 }
 .bg-blue {
-  background-color: #5d42e5;
+  background-color: #754405;
 }
 .bg-wisteria {
-  background-color: #7f1f9b;
+  background-color: #0bae2f;
 }
 .bg-dark-blue {
-  background-color: #1f399b;
+  background-color: #8d7905;
 }
 .flex-center {
   justify-content: center;
@@ -2912,13 +2912,13 @@ a:hover,
 .fables-main-active.active,
 .fables-main-dots .owl-dot.active span,
 .fables-main-hover-background-color:hover {
-  background-color: #2c3e4f !important;
+  background-color: #cce445 !important;
 }
 .fables-main-text-color {
-  color: #04326b;
+  color: #dc900b;
 }
 .backgroundedH2 {
-  background: linear-gradient(to left, #4fd797, #0eacb5);
+  background: linear-gradient(to left, #91e20e, #dc8e08);
   padding: 30px 10px;
   color: white;
 }
@@ -2941,7 +2941,7 @@ a:hover,
 .fables-second-hover-background-color:hover,
 .fables-second-active.active,
 .fables-second-dots .owl-dot.active span {
-  background-color: #4287c3 !important;
+  background-color: #079c75 !important;
   transition: all ease-in-out 0.3s;
 }
 
@@ -2990,7 +2990,7 @@ a:hover,
   background-color: #e9ecee !important;
 }
 .fables-forth-text-color {
-  color: #e9ecee;
+  color: #54e260;
 }
 .fables-forth-border-color {
   border-color: #e9ecee;
