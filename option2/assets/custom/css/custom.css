@@ -191,7 +191,6 @@ body {
   background-color: rgba(207, 81, 14, 0.6) !important;
 }
 .overlay-lighter:after {
-  background-color: rgba(44, 62, 79, 0.7);
 }
 .fables-transparent {
   position: absolute;
@@ -2598,8 +2597,8 @@ body {
   right: 0;
   width: 0;
   height: 0;
-  border-bottom: 100vh solid #ed844c99;
-  border-right: 98.5vw solid transparent;
+  border-bottom: 100vh solid #ed844c87;
+  border-right: 98.5vw solid #f1f1f18f;
   z-index: 3;
   bottom: 0;
 }
