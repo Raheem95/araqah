@@ -184,7 +184,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ff5d07;
+  background-color: rgba(237, 132, 76, 0.8);
 }
 .overlay-lighter:after {
   background-color: rgba(44, 62, 79, 0.7);
@@ -200,7 +200,7 @@ body {
   -o-transition: all ease-in-out 0.5s;
   -webkit-transition: all ease-in-out 0.5s;
   -moz-transition: all ease-in-out 0.5s;
-  background: #ce4c06;
+  background: #ed844c;
 }
 .fables-page-title {
   color: #fff;
@@ -2594,7 +2594,7 @@ body {
   right: 0;
   width: 0;
   height: 0;
-  border-bottom: 100vh solid #ff5d0780;
+  border-bottom: 100vh solid #ed844c99;
   border-right: 98.5vw solid transparent;
   z-index: 3;
   bottom: 0;
@@ -2912,7 +2912,7 @@ a:hover,
 .fables-main-active.active,
 .fables-main-dots .owl-dot.active span,
 .fables-main-hover-background-color:hover {
-  background-color: rgb(245 35 232) !important;
+  background-color: #ed844c !important;
 }
 .fables-main-text-color {
   color: #d20d1d;
